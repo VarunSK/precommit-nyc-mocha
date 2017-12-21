@@ -1,5 +1,5 @@
 -   id: nyc-mocha
     name: istanbul nyc and mocha
-    entry: ./node_modules/nyc/bin/nyc ./node_modules/mocha/bin/mocha
+    entry: npm run NODE_ENV=default nyc mocha 
     language: node
     args: ['--exit']
