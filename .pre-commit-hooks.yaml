@@ -1,5 +1,5 @@
 -   id: nyc-mocha
     name: istanbul nyc and mocha
-    entry: nyc mocha
+    entry: test:server
     language: node
     args: ['--exit']
