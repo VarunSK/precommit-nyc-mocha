@@ -1,7 +1,5 @@
-Prettier for pre-commit
+nyc-mocha for pre-commit
 ========================
-
-Prettier package for pre-commit>=0.12.0.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
