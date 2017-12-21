@@ -1,5 +1,5 @@
 -   id: nyc-mocha
     name: istanbul nyc and mocha
-    entry: NODE_ENV=default nyc mocha
+    entry: nyc mocha
     language: node
     args: ['--exit']
